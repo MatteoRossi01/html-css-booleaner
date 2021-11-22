@@ -1,3 +1,17 @@
+header {
+    background-color: #57a9ff;
+    background-image: url(img/pattern.png);
+    background-size: 260px;
+    margin-right: 500px;
+    background-repeat: repeat;
+}    
+    
+.logo{
+    width: 15%;
+    margin-top: 30px;
+    margin-left: 10px;
+}    
+
 
 
 
