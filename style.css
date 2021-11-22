@@ -134,4 +134,35 @@ main {
     display: inline-block;
     width: 42%;
 }
-    
+/* Fine tabella */
+
+/* Titolo footer */
+.titolo-footer {
+    color: #bcbca9;
+    position: relative;
+    font-size: 20px;
+}
+
+/* Immagini con testo */
+.contenitore1 {
+    background-image: url(img/monitor.jpg);
+    width: 270px;
+    height: 208px;
+    position: relative;
+    bottom: 15px;
+}
+
+.contenitore2 {
+    background-image: url(img/graph.jpg);
+    width: 270px;
+    height: 208px;
+    position: relative;
+    bottom: 15px;
+}
+
+.scritta {
+    position: relative;
+    top: 15px;
+    left: 10px;
+    color: white;
+}
