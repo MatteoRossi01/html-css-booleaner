@@ -1,0 +1,18 @@
+.logo {
+    position: relative;
+    left: 70px;
+}
+
+header {
+    margin-right: 300px;
+}
+
+main{
+    position: relative;
+    left: 80px;
+}
+
+footer {
+    position: relative;
+    left: 80px;
+}
