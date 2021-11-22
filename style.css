@@ -1,13 +1,14 @@
+/* Intestazione pagina */
 header {
     background-color: #57a9ff;
     background-image: url(img/pattern.png);
     background-size: 260px;
-    margin-right: 500px;
+    margin-right: 450px;
     background-repeat: repeat;
 }   
 
 main {
-    margin-right: 500px;
+    margin-right: 450px;
     display: inline-block;
 }
     
@@ -17,6 +18,7 @@ main {
     margin-left: 10px;
 }    
 
+/* Titolo */
 .info-titolo {
     color: #bcbca9;
 }
@@ -26,6 +28,20 @@ main {
 }
 
 .data {
+    font-size: 12px;
+}
+
+/* Aggiunta foto */
+.prima-foto {
+    width: 450px;
+    height: 312px;
+}
+
+.seconda-foto {
+    width: 400px;
+}
+
+.info-foto {
     font-size: 12px;
 }
 
