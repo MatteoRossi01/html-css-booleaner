@@ -21,6 +21,8 @@ main {
 /* Titolo */
 .info-titolo {
     color: #bcbca9;
+    position: relative;
+    bottom: 20px
 }
 
 #the-booleaner {
@@ -43,6 +45,8 @@ main {
 
 .info-foto {
     font-size: 12px;
+    position: relative;
+    bottom: 15px;
 }
 
 /* Primo paragrafo */
@@ -53,9 +57,81 @@ main {
 /* Lista non-ordinata */
 .lista-ul {
     margin-top: 30px;
-    text-align: left;
+    position: relative;
+    right: 25px;
+}
+    
+
+/* prima riga tabella */
+.row-1{
+    background-color: #4998ee;
+    margin-top: 30px;
 }
 
+.row-left {
+    display: inline-block;
+    width: 28%;
+    color: white;
+}
 
+.row-center {
+    display: inline-block;
+    width: 28%;
+    color: white;
+}
+.row-right {
+    display: inline-block;
+    width: 42%;
+    color: white;
+}
 
+/* seconda-quarta riga tabella */
+.row-2-4{
+    background-color: #8fc0f5;
+    height: 53px;
+}
+
+.row2-left {
+    display: inline-block;
+    width: 28%;
+    position: relative;
+    bottom: 21px;
+}
+
+.row2-center {
+    display: inline-block;
+    width: 28%;
+    position: relative;
+    bottom: 21px;
+}
+
+.row2-right {
+    display: inline-block;
+    width: 42%;
+}
+
+/* terza riga tabella */
+.row-3{
+    background-color: white;
+    height: 53px;
+}
+
+.row3-left {
+    display: inline-block;
+    width: 28%;
+    position: relative;
+    bottom: 21px;
+}
+
+.row3-center {
+    display: inline-block;
+    width: 28%;
+    position: relative;
+    bottom: 21px;
+}
+
+.row3-right {
+    display: inline-block;
+    width: 42%;
+}
     
